@@ -29,7 +29,7 @@ Familiarity with:
 ---
 
 ## 📸 Screenshots
-1. ** Home Page **:  
+1. **Home Page**:  
    ![Home Page](images/bmvpn.png)
 
 
