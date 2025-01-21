@@ -32,7 +32,7 @@ Familiarity with:
 ---
 
 ## 📸 Screenshots
-1. **Home Page**:  
+1. ** Home Page **:  
    ![Home Page](images/bmvpn.png)
 
 
@@ -44,7 +44,8 @@ Add your screenshots to the `screenshots` directory in the repository.
 ## 🚀 Getting Started
 
 ### **1. Clone the Repository**
-```bash
+```
+bash
 git clone https://github.com/TheBMPatil/simple-vpn-web-project-java
 cd simple-vpn-web-project-java
 ```
@@ -93,5 +94,5 @@ BM-VPN/
 For any queries or contributions, reach out to:  
 **[Bhagvat Mutthe]** - [bhagvatnmutthe@gmail.com]  
 GitHub: [TheBMPatil](https://github.com/TheBMPatil)
-```
+
 
