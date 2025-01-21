@@ -33,7 +33,6 @@ Familiarity with:
    ![Home Page](images/bmvpn.png)
 
 
-Add your screenshots to the `screenshots` directory in the repository.
 
 ---
 
