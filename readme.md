@@ -1,6 +1,3 @@
-Here’s a **README.md** file tailored for your VPN project:
-
-```markdown
 # VPN Project in Java
 
 ## 📋 Overview
@@ -45,8 +42,7 @@ Add your screenshots to the `screenshots` directory in the repository.
 
 ### **1. Clone the Repository**
 ```
-bash
-git clone https://github.com/TheBMPatil/simple-vpn-web-project-java
+bash git clone https://github.com/TheBMPatil/simple-vpn-web-project-java
 cd simple-vpn-web-project-java
 ```
 
